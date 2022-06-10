@@ -1,1 +1,1 @@
-FROM Debian/Ubuntu
+FROM ubuntu
