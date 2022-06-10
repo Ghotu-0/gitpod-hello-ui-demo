@@ -1,1 +1,1 @@
-FROM ubuntu
+From jgoerzen/debian-base-vnc
